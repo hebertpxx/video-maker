@@ -1,0 +1,16 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Youtube Video Maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "video",
+    "maker",
+    "youtube"
+  ],
+  "author": "Roberto Hebert de Souza Vinha",
+  "license": "MIT"
+}
