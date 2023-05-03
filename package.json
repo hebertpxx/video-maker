@@ -12,5 +12,8 @@
     "youtube"
   ],
   "author": "Roberto Hebert de Souza Vinha",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
